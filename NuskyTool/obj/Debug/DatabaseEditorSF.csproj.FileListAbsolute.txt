@@ -1,0 +1,12 @@
+C:\Users\administrador\Desktop\Nusky Editor\NuskyTool\obj\Debug\NuskyTool.csprojAssemblyReference.cache
+C:\Users\administrador\Desktop\Nusky Editor\NuskyTool\obj\Debug\NuskyTool.Views.FormAbout.resources
+C:\Users\administrador\Desktop\Nusky Editor\NuskyTool\obj\Debug\NuskyTool.Views.FormMain.resources
+C:\Users\administrador\Desktop\Nusky Editor\NuskyTool\obj\Debug\NuskyTool.Views.FormMySQL.resources
+C:\Users\administrador\Desktop\Nusky Editor\NuskyTool\obj\Debug\NuskyTool.Views.FormPopup.FormPopupCheckboxList.resources
+C:\Users\administrador\Desktop\Nusky Editor\NuskyTool\obj\Debug\NuskyTool.Views.FormPopup.FormPopupEntities.resources
+C:\Users\administrador\Desktop\Nusky Editor\NuskyTool\obj\Debug\NuskyTool.Views.FormPopup.FormPopupSelection.resources
+C:\Users\administrador\Desktop\Nusky Editor\NuskyTool\obj\Debug\NuskyTool.Views.FormControlPanel.resources
+C:\Users\administrador\Desktop\Nusky Editor\NuskyTool\obj\Debug\NuskyTool.Properties.Resources.resources
+C:\Users\administrador\Desktop\Nusky Editor\NuskyTool\obj\Debug\NuskyTool.Views.FormSettings.resources
+C:\Users\administrador\Desktop\Nusky Editor\NuskyTool\obj\Debug\NuskyTool.csproj.GenerateResource.cache
+C:\Users\administrador\Desktop\Nusky Editor\NuskyTool\obj\Debug\NuskyTool.csproj.CoreCompileInputs.cache

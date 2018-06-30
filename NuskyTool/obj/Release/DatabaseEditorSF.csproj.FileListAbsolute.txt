@@ -1,0 +1,49 @@
+C:\Users\administrador\Desktop\Nusky Editor\NuskyTool\bin\Release\NuskyTool.exe.config
+C:\Users\administrador\Desktop\Nusky Editor\NuskyTool\bin\Release\NuskyTool.exe
+C:\Users\administrador\Desktop\Nusky Editor\NuskyTool\bin\Release\NuskyTool.pdb
+C:\Users\administrador\Desktop\Nusky Editor\NuskyTool\obj\Release\NuskyTool.csprojAssemblyReference.cache
+C:\Users\administrador\Desktop\Nusky Editor\NuskyTool\obj\Release\NuskyTool.Views.FormAbout.resources
+C:\Users\administrador\Desktop\Nusky Editor\NuskyTool\obj\Release\NuskyTool.Views.FormMain.resources
+C:\Users\administrador\Desktop\Nusky Editor\NuskyTool\obj\Release\NuskyTool.Views.FormMySQL.resources
+C:\Users\administrador\Desktop\Nusky Editor\NuskyTool\obj\Release\NuskyTool.Views.FormPopup.FormPopupCheckboxList.resources
+C:\Users\administrador\Desktop\Nusky Editor\NuskyTool\obj\Release\NuskyTool.Views.FormPopup.FormPopupEntities.resources
+C:\Users\administrador\Desktop\Nusky Editor\NuskyTool\obj\Release\NuskyTool.Views.FormPopup.FormPopupSelection.resources
+C:\Users\administrador\Desktop\Nusky Editor\NuskyTool\obj\Release\NuskyTool.Views.FormControlPanel.resources
+C:\Users\administrador\Desktop\Nusky Editor\NuskyTool\obj\Release\NuskyTool.Properties.Resources.resources
+C:\Users\administrador\Desktop\Nusky Editor\NuskyTool\obj\Release\NuskyTool.Views.FormSettings.resources
+C:\Users\administrador\Desktop\Nusky Editor\NuskyTool\obj\Release\NuskyTool.csproj.GenerateResource.cache
+C:\Users\administrador\Desktop\Nusky Editor\NuskyTool\obj\Release\NuskyTool.csproj.CoreCompileInputs.cache
+C:\Users\administrador\Desktop\Nusky Editor\NuskyTool\obj\Release\NuskyTool.csproj.CopyComplete
+C:\Users\administrador\Desktop\Nusky Editor\NuskyTool\obj\Release\NuskyTool.exe
+C:\Users\administrador\Desktop\Nusky Editor\NuskyTool\obj\Release\NuskyTool.pdb
+C:\Users\administrador\Desktop\NuskyTool\NuskyTool\bin\Release\NuskyTool.exe.config
+C:\Users\administrador\Desktop\NuskyTool\NuskyTool\bin\Release\NuskyTool.exe
+C:\Users\administrador\Desktop\NuskyTool\NuskyTool\bin\Release\NuskyTool.pdb
+C:\Users\administrador\Desktop\NuskyTool\NuskyTool\obj\Release\NuskyTool.csprojAssemblyReference.cache
+C:\Users\administrador\Desktop\NuskyTool\NuskyTool\obj\Release\NuskyTool.Views.FormAbout.resources
+C:\Users\administrador\Desktop\NuskyTool\NuskyTool\obj\Release\NuskyTool.Views.FormMain.resources
+C:\Users\administrador\Desktop\NuskyTool\NuskyTool\obj\Release\NuskyTool.Views.FormMySQL.resources
+C:\Users\administrador\Desktop\NuskyTool\NuskyTool\obj\Release\NuskyTool.Views.FormPopup.FormPopupCheckboxList.resources
+C:\Users\administrador\Desktop\NuskyTool\NuskyTool\obj\Release\NuskyTool.Views.FormPopup.FormPopupEntities.resources
+C:\Users\administrador\Desktop\NuskyTool\NuskyTool\obj\Release\NuskyTool.Views.FormPopup.FormPopupSelection.resources
+C:\Users\administrador\Desktop\NuskyTool\NuskyTool\obj\Release\NuskyTool.Views.FormControlPanel.resources
+C:\Users\administrador\Desktop\NuskyTool\NuskyTool\obj\Release\NuskyTool.Properties.Resources.resources
+C:\Users\administrador\Desktop\NuskyTool\NuskyTool\obj\Release\NuskyTool.Views.FormSettings.resources
+C:\Users\administrador\Desktop\NuskyTool\NuskyTool\obj\Release\NuskyTool.csproj.GenerateResource.cache
+C:\Users\administrador\Desktop\NuskyTool\NuskyTool\obj\Release\NuskyTool.csproj.CoreCompileInputs.cache
+C:\Users\administrador\Desktop\NuskyTool\NuskyTool\obj\Release\NuskyTool.csproj.CopyComplete
+C:\Users\administrador\Desktop\NuskyTool\NuskyTool\obj\Release\NuskyTool.exe
+C:\Users\administrador\Desktop\NuskyTool\NuskyTool\obj\Release\NuskyTool.pdb
+C:\Users\administrador\Desktop\NuskyTool\NuskyTool\obj\Release\NuskyTool.View.FormLoading.resources
+C:\Users\administrador\Desktop\NuskyTool\NuskyTool\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\administrador\Desktop\NuskyTool\NuskyTool\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\administrador\Desktop\NuskyTool\NuskyTool\bin\Release\NuskyTool.exe.config
+C:\Users\administrador\Desktop\NuskyTool\NuskyTool\bin\Release\NuskyTool.exe
+C:\Users\administrador\Desktop\NuskyTool\NuskyTool\bin\Release\NuskyTool.pdb
+C:\Users\administrador\Desktop\NuskyTool\NuskyTool\obj\Release\NuskyTool.csprojAssemblyReference.cache
+C:\Users\administrador\Desktop\NuskyTool\NuskyTool\obj\Release\NuskyTool.Views.FormControlPanel.resources
+C:\Users\administrador\Desktop\NuskyTool\NuskyTool\obj\Release\NuskyTool.Properties.Resources.resources
+C:\Users\administrador\Desktop\NuskyTool\NuskyTool\obj\Release\NuskyTool.csproj.GenerateResource.cache
+C:\Users\administrador\Desktop\NuskyTool\NuskyTool\obj\Release\NuskyTool.csproj.CoreCompileInputs.cache
+C:\Users\administrador\Desktop\NuskyTool\NuskyTool\obj\Release\NuskyTool.exe
+C:\Users\administrador\Desktop\NuskyTool\NuskyTool\obj\Release\NuskyTool.pdb
